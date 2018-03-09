@@ -1,0 +1,9 @@
+{
+ "data": [
+  {
+   "vehicleNo": "N123",
+   "earliestAvailableTime": 1515340800000,
+   "availableCity": "成都市"
+  }
+ ]
+}

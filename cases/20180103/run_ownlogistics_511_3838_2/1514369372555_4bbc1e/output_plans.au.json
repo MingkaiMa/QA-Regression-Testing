@@ -1,0 +1,118 @@
+{
+    "data": [
+        {
+            "vehicleNo": "粤BZ2182",
+            "plans": [
+                {
+                    "expectedProfit": 7413.5247859115925,
+                    "profit": 8841.351999999999,
+                    "probability": 0.8876972226521852,
+                    "routes": [
+                        {
+                            "orderId": null,
+                            "orderMoney": 0,
+                            "fromCity": "上海市",
+                            "toCity": "杭州市",
+                            "orderedPickupTime": 1514335896000,
+                            "loadingTime": 0,
+                            "unLoadingTime": 0,
+                            "isVirtual": 0,
+                            "routeKey": "5062",
+                            "distance": 197.34,
+                            "duration": 3.29,
+                            "expense": 730.158,
+                            "probability": 1.0,
+                            "waitingTime": 6.860000000023283,
+                            "lineCost": null
+                        },
+                        {
+                            "orderId": "natureorder_511_3838_2",
+                            "orderMoney": 16300.0,
+                            "fromCity": "杭州市",
+                            "toCity": "成都市",
+                            "orderedPickupTime": 1514347740000,
+                            "loadingTime": 5.0,
+                            "unLoadingTime": 5.0,
+                            "isVirtual": 0,
+                            "routeKey": "4556",
+                            "distance": 1945.26,
+                            "duration": 32.42,
+                            "expense": 19456.22,
+                            "probability": 1.0,
+                            "waitingTime": 0,
+                            "lineCost": 19456.22
+                        },
+                        {
+                            "orderId": null,
+                            "orderMoney": 0,
+                            "fromCity": "成都市",
+                            "toCity": "重庆市",
+                            "orderedPickupTime": 1514532619000,
+                            "loadingTime": 0,
+                            "unLoadingTime": 0,
+                            "isVirtual": 1,
+                            "routeKey": "11152",
+                            "distance": 398.19,
+                            "duration": 6.64,
+                            "expense": 1473.303,
+                            "probability": 0.8885192445242962,
+                            "waitingTime": 8.935277777796145,
+                            "lineCost": null
+                        },
+                        {
+                            "orderId": "12274714123414",
+                            "orderMoney": 9000.0,
+                            "fromCity": "重庆市",
+                            "toCity": "金华市",
+                            "orderedPickupTime": 1514556523000,
+                            "loadingTime": 5.0,
+                            "unLoadingTime": 5.0,
+                            "isVirtual": 1,
+                            "routeKey": "11322",
+                            "distance": 1530.47,
+                            "duration": 25.51,
+                            "expense": 5662.7390000000005,
+                            "probability": 0.8885192445242962,
+                            "waitingTime": 0,
+                            "lineCost": null
+                        },
+                        {
+                            "orderId": null,
+                            "orderMoney": 0,
+                            "fromCity": "金华市",
+                            "toCity": "金华市",
+                            "orderedPickupTime": 1514696923000,
+                            "loadingTime": 0,
+                            "unLoadingTime": 0,
+                            "isVirtual": 1,
+                            "routeKey": " ",
+                            "distance": 0.0,
+                            "duration": 0.0,
+                            "expense": 0.0,
+                            "probability": 0.9990748406664494,
+                            "waitingTime": 3.4899999999906868,
+                            "lineCost": null
+                        },
+                        {
+                            "orderId": "12277043770090",
+                            "orderMoney": 17000.0,
+                            "fromCity": "金华市",
+                            "toCity": "重庆市",
+                            "orderedPickupTime": 1514696923000,
+                            "loadingTime": 5.0,
+                            "unLoadingTime": 5.0,
+                            "isVirtual": 1,
+                            "routeKey": "11212",
+                            "distance": 1658.44,
+                            "duration": 27.64,
+                            "expense": 6136.228,
+                            "probability": 0.9990748406664494,
+                            "waitingTime": 0,
+                            "lineCost": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

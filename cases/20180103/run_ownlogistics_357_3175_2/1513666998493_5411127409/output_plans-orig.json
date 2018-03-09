@@ -1,0 +1,144 @@
+{
+    "data": [
+        {
+            "vehicleNo": "粤BZ2182",
+            "plans": [
+                {
+                    "expectedProfit": 19701.17806624843,
+                    "profit": 22339.409,
+                    "probability": 0.8158445538720409,
+                    "routes": [
+                        {
+                            "orderId": null,
+                            "orderMoney": 0,
+                            "fromCity": "长沙市",
+                            "toCity": "长沙市",
+                            "orderedPickupTime": "2017-12-21 15:00:00",
+                            "loadingTime": 0,
+                            "unLoadingTime": 0,
+                            "isVirtual": 0,
+                            "routeKey": " ",
+                            "distance": 0.0,
+                            "duration": 0.0,
+                            "expense": 0.0,
+                            "probability": 1.0,
+                            "waitingTime": 48.016666666662786
+                        },
+                        {
+                            "orderId": "natureorder_357_3175_2",
+                            "orderMoney": 5000.0,
+                            "fromCity": "长沙市",
+                            "toCity": "武汉市",
+                            "orderedPickupTime": "2017-12-21 15:00:00",
+                            "loadingTime": 5.0,
+                            "unLoadingTime": 5.0,
+                            "isVirtual": 0,
+                            "routeKey": "5605",
+                            "distance": 338.13,
+                            "duration": 5.64,
+                            "expense": 1251.0810000000001,
+                            "probability": 1.0,
+                            "waitingTime": 0
+                        },
+                        {
+                            "orderId": null,
+                            "orderMoney": 0,
+                            "fromCity": "武汉市",
+                            "toCity": "长沙市",
+                            "orderedPickupTime": "2017-12-22 22:22:12",
+                            "loadingTime": 0,
+                            "unLoadingTime": 0,
+                            "isVirtual": 1,
+                            "routeKey": "11601",
+                            "distance": 337.76,
+                            "duration": 5.63,
+                            "expense": 1249.712,
+                            "probability": 0.9990274584589334,
+                            "waitingTime": 15.729999999986031
+                        },
+                        {
+                            "orderId": "12193174461715",
+                            "orderMoney": 5750.0,
+                            "fromCity": "长沙市",
+                            "toCity": "武汉市",
+                            "orderedPickupTime": "2017-12-23 04:00:00",
+                            "loadingTime": 5.0,
+                            "unLoadingTime": 5.0,
+                            "isVirtual": 1,
+                            "routeKey": "5605",
+                            "distance": 338.13,
+                            "duration": 5.64,
+                            "expense": 1251.0810000000001,
+                            "probability": 0.9990274584589334,
+                            "waitingTime": 0
+                        },
+                        {
+                            "orderId": null,
+                            "orderMoney": 0,
+                            "fromCity": "武汉市",
+                            "toCity": "武汉市",
+                            "orderedPickupTime": "2017-12-23 20:00:00",
+                            "loadingTime": 0,
+                            "unLoadingTime": 0,
+                            "isVirtual": 1,
+                            "routeKey": " ",
+                            "distance": 0.0,
+                            "duration": 0.0,
+                            "expense": 0.0,
+                            "probability": 0.903680678668598,
+                            "waitingTime": 0.35999999998603016
+                        },
+                        {
+                            "orderId": "12190882804527",
+                            "orderMoney": 5021.0,
+                            "fromCity": "武汉市",
+                            "toCity": "杭州市",
+                            "orderedPickupTime": "2017-12-23 20:00:00",
+                            "loadingTime": 5.0,
+                            "unLoadingTime": 5.0,
+                            "isVirtual": 1,
+                            "routeKey": "5110",
+                            "distance": 766.15,
+                            "duration": 12.77,
+                            "expense": 2834.755,
+                            "probability": 0.903680678668598,
+                            "waitingTime": 0
+                        },
+                        {
+                            "orderId": null,
+                            "orderMoney": 0,
+                            "fromCity": "杭州市",
+                            "toCity": "杭州市",
+                            "orderedPickupTime": "2017-12-24 20:00:00",
+                            "loadingTime": 0,
+                            "unLoadingTime": 0,
+                            "isVirtual": 1,
+                            "routeKey": " ",
+                            "distance": 0.0,
+                            "duration": 0.0,
+                            "expense": 0.0,
+                            "probability": 0.903680678668598,
+                            "waitingTime": 1.2299999999813735
+                        },
+                        {
+                            "orderId": "12191095144038",
+                            "orderMoney": 20352.5,
+                            "fromCity": "杭州市",
+                            "toCity": "成都市",
+                            "orderedPickupTime": "2017-12-24 20:00:00",
+                            "loadingTime": 5.0,
+                            "unLoadingTime": 5.0,
+                            "isVirtual": 1,
+                            "routeKey": "4556",
+                            "distance": 1945.26,
+                            "duration": 32.42,
+                            "expense": 7197.462,
+                            "probability": 0.903680678668598,
+                            "waitingTime": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "data": [
+        {
+            "vehicleNo": "粤BAF768",
+            "plans": [
+                {
+                    "expectedProfit": -3110.4699999999993,
+                    "profit": -3110.4699999999993,
+                    "probability": 1.0,
+                    "routes": [
+                        {
+                            "orderId": null,
+                            "orderMoney": 0,
+                            "fromCity": "长沙市",
+                            "toCity": "长沙市",
+                            "orderedPickupTime": 1515816060000,
+                            "loadingTime": 0,
+                            "unLoadingTime": 0,
+                            "isVirtual": 0,
+                            "routeKey": " ",
+                            "distance": 0.0,
+                            "duration": 0.0,
+                            "expense": 0.0,
+                            "probability": 1.0,
+                            "waitingTime": 195.2333333333372,
+                            "lineCost": null
+                        },
+                        {
+                            "orderId": "natureorder_602_435_1",
+                            "orderMoney": 5770.0,
+                            "fromCity": "长沙市",
+                            "toCity": "中山市",
+                            "orderedPickupTime": 1515816060000,
+                            "loadingTime": 5.0,
+                            "unLoadingTime": 5.0,
+                            "isVirtual": 0,
+                            "routeKey": "435",
+                            "distance": 753.86,
+                            "duration": 12.56,
+                            "expense": 8880.47,
+                            "probability": 1.0,
+                            "waitingTime": 0,
+                            "lineCost": 8880.47
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

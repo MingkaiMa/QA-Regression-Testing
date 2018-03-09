@@ -1,0 +1,14 @@
+{
+    "data": [
+        {
+            "vehicleNo": "粤BZ2182",
+            "copyCount": 0,
+            "earliestAvailableTime": 1514509260000,
+            "availableCity": "武汉市"
+        }
+    ],
+    "error": {
+        "code": 0,
+        "message": null
+    }
+}

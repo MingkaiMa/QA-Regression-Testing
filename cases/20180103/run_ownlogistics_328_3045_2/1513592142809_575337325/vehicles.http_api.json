@@ -1,0 +1,14 @@
+{
+    "data": [
+        {
+            "vehicleNo": "粤BZ2182",
+            "copyCount": 0,
+            "earliestAvailableTime": 1513591920000,
+            "availableCity": "长沙市"
+        }
+    ],
+    "error": {
+        "code": 0,
+        "message": null
+    }
+}

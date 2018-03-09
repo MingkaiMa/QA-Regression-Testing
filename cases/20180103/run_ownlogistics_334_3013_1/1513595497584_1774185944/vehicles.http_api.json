@@ -1,0 +1,14 @@
+{
+    "data": [
+        {
+            "vehicleNo": "粤BAF768",
+            "copyCount": 0,
+            "earliestAvailableTime": 1513595220000,
+            "availableCity": "杭州市"
+        }
+    ],
+    "error": {
+        "code": 0,
+        "message": null
+    }
+}

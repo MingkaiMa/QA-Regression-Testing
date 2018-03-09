@@ -1,0 +1,118 @@
+{
+    "data": [
+        {
+            "vehicleNo": "粤BAF768",
+            "plans": [
+                {
+                    "expectedProfit": 7365.9223436662,
+                    "profit": 7377.856,
+                    "probability": 0.9988768631059762,
+                    "routes": [
+                        {
+                            "orderId": null,
+                            "orderMoney": 0,
+                            "fromCity": "成都市",
+                            "toCity": "成都市",
+                            "orderedPickupTime": 1515372600000,
+                            "loadingTime": 0,
+                            "unLoadingTime": 0,
+                            "isVirtual": 0,
+                            "routeKey": " ",
+                            "distance": 0.0,
+                            "duration": 0.0,
+                            "expense": 0.0,
+                            "probability": 1.0,
+                            "waitingTime": 4.0499999999883585,
+                            "lineCost": null
+                        },
+                        {
+                            "orderId": "natureorder_634_5542_1",
+                            "orderMoney": 5900.0,
+                            "fromCity": "成都市",
+                            "toCity": "武汉市",
+                            "orderedPickupTime": 1515372600000,
+                            "loadingTime": 5.0,
+                            "unLoadingTime": 5.0,
+                            "isVirtual": 0,
+                            "routeKey": "5542",
+                            "distance": 1251.93,
+                            "duration": 20.87,
+                            "expense": 12068.61,
+                            "probability": 1.0,
+                            "waitingTime": 0,
+                            "lineCost": 12068.61
+                        },
+                        {
+                            "orderId": null,
+                            "orderMoney": 0,
+                            "fromCity": "武汉市",
+                            "toCity": "武汉市",
+                            "orderedPickupTime": 1515538800000,
+                            "loadingTime": 0,
+                            "unLoadingTime": 0,
+                            "isVirtual": 1,
+                            "routeKey": " ",
+                            "distance": 0.0,
+                            "duration": 0.0,
+                            "expense": 0.0,
+                            "probability": 0.9999999999993285,
+                            "waitingTime": 15.296666666690726,
+                            "lineCost": null
+                        },
+                        {
+                            "orderId": "01088670327461",
+                            "orderMoney": 5390.0,
+                            "fromCity": "武汉市",
+                            "toCity": "金华市",
+                            "orderedPickupTime": 1515538800000,
+                            "loadingTime": 5.0,
+                            "unLoadingTime": 5.0,
+                            "isVirtual": 1,
+                            "routeKey": "11271",
+                            "distance": 667.25,
+                            "duration": 11.12,
+                            "expense": 2468.8250000000003,
+                            "probability": 0.9999999999993285,
+                            "waitingTime": 0,
+                            "lineCost": null
+                        },
+                        {
+                            "orderId": null,
+                            "orderMoney": 0,
+                            "fromCity": "金华市",
+                            "toCity": "苏州市",
+                            "orderedPickupTime": 1515628872000,
+                            "loadingTime": 0,
+                            "unLoadingTime": 0,
+                            "isVirtual": 1,
+                            "routeKey": "9342",
+                            "distance": 359.01,
+                            "duration": 5.98,
+                            "expense": 1328.337,
+                            "probability": 0.9988768631066469,
+                            "waitingTime": 3.900000000004656,
+                            "lineCost": null
+                        },
+                        {
+                            "orderId": "01086597165811",
+                            "orderMoney": 15800.0,
+                            "fromCity": "苏州市",
+                            "toCity": "长沙市",
+                            "orderedPickupTime": 1515650400000,
+                            "loadingTime": 5.0,
+                            "unLoadingTime": 5.0,
+                            "isVirtual": 1,
+                            "routeKey": "11635",
+                            "distance": 1039.56,
+                            "duration": 17.33,
+                            "expense": 3846.372,
+                            "probability": 0.9988768631066469,
+                            "waitingTime": 0,
+                            "lineCost": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
